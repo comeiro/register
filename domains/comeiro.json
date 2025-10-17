@@ -1,0 +1,10 @@
+{
+  "description": "comeiro",
+  "repo": "https://github.com/comeiro/register",
+  "owner": {
+    "username": "comeiro"
+  },
+  "record": {
+    "CNAME": "comeiro.github.io"
+  }
+}
